@@ -1,0 +1,15 @@
+# .gitignore
+
+# common
+*.log
+
+# jetbrains ide
+.idea/
+
+# folders
+archive/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
